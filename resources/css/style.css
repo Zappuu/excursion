@@ -1,0 +1,45 @@
+html {
+    background-color: black;
+}
+
+.heading {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.anchor {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.bot {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+.bot1 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.bot3 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: white;
+    text-align: center;
+}
+
+.bot4 {
+    font-family: Verdana;
+    text-align: right;
+    color: Gray;
+}
