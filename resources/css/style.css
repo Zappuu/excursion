@@ -43,3 +43,13 @@ html {
     text-align: right;
     color: Gray;
 }
+
+.media {
+    display: flex;
+    justify-content: center;
+}
+
+.media img {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
